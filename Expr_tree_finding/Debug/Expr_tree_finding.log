@@ -1,0 +1,5 @@
+﻿  Expr_tree_finding.cpp
+D:\Проекти, презентации и тд\предмети кну\2\Прогр Вер\Laboratory_4\Expr_tree_finding\Expr_tree_finding.cpp(103,23): warning C4018: '<': signed/unsigned mismatch
+D:\Проекти, презентации и тд\предмети кну\2\Прогр Вер\Laboratory_4\Expr_tree_finding\Expr_tree_finding.cpp(165,26): warning C4244: 'return': conversion from 'double' to 'char', possible loss of data
+D:\Проекти, презентации и тд\предмети кну\2\Прогр Вер\Laboratory_4\Expr_tree_finding\Expr_tree_finding.cpp(140): warning C4715: 'group_of_operation': not all control paths return a value
+  Expr_tree_finding.vcxproj -> D:\Проекти, презентации и тд\предмети кну\2\Прогр Вер\Laboratory_4\Debug\Expr_tree_finding.exe
